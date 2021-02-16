@@ -1,0 +1,29 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1080" fill="#E5E5E5"/>
+<g clip-path="url(#clip0)">
+<rect width="1080" height="1080" fill="white"/>
+<circle cx="525" cy="540" r="294.5" stroke="#010123" stroke-width="35"/>
+<mask id="path-2-inside-1" fill="white">
+<path d="M884.675 424.058H990.147L820.089 254L650.031 424.058H756.798C741.695 624.432 637.342 786.312 502 825.674C522.641 831.684 544.024 834.855 565.916 834.855C731.215 834.859 867.272 655.036 884.675 424.058Z"/>
+</mask>
+<path d="M884.675 424.058H990.147L820.089 254L650.031 424.058H756.798C741.695 624.432 637.342 786.312 502 825.674C522.641 831.684 544.024 834.855 565.916 834.855C731.215 834.859 867.272 655.036 884.675 424.058Z" fill="#01F083" stroke="#010123" stroke-width="62.9551" mask="url(#path-2-inside-1)"/>
+<g filter="url(#filter0_d)">
+<text fill="#01F083" xml:space="preserve" style="white-space: pre" font-family="Timmana" font-size="224" letter-spacing="-0.005em"><tspan x="101.052" y="621.024">StonksPay</tspan></text>
+<text stroke="#010123" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" xml:space="preserve" style="white-space: pre" font-family="Timmana" font-size="224" letter-spacing="-0.005em"><tspan x="101.052" y="621.024">StonksPay</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="67.1221" y="433.978" width="959.083" height="279.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="1080" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
